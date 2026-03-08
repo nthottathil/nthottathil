@@ -2,7 +2,7 @@
 I'm a Software Engineer at bp in London, building production GenAI systems and full-stack platforms. I'm passionate about using LLMs and data to create intelligent, personalised user experiences, from AI-powered automation to fitness coaching APIs to social matching algorithms.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neha-thottathil/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nthottathil@live.co.uk) 
 
 # 💻 Tech Stack:
