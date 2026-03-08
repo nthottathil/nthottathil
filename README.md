@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer at bp in London, building production GenAI systems and full-stack platforms. I'm passionate about using LLMs and data to create intelligent, personalised user experiences, from AI-powered IT automation to fitness coaching APIs to social matching algorithms.
+I'm a Software Engineer at bp in London, building production GenAI systems and full-stack platforms. I'm passionate about using LLMs and data to create intelligent, personalised user experiences, from AI-powered automation to fitness coaching APIs to social matching algorithms.
 
 
 ## 🌐 Socials:
